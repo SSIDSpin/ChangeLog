@@ -1,0 +1,2 @@
+# ChangeLog
+ChangeLog for spinware
